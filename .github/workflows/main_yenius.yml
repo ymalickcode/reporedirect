@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'yenius'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B67DCDA9BFD45F98DE9610455181374 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FA0DFBA372B4444849EDBBF34F19926 }}
           package: .
